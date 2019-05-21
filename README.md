@@ -3,7 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+ First npm install and then npm start
+ http://localhost:3000/tf-jsx-demo/axolot/
 ### `npm start`
 
 Runs the app in the development mode.<br>

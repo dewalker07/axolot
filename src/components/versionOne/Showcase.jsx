@@ -96,7 +96,7 @@ Showcase.defaultProps = {
     showcasenName: "Make your business more profitable",
     showcaseDescription:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.",
-    showcaseImage: require("./main-banner.png"),
+    showcaseImage: require("../../assets/img/main-banner.png"),
     showcaseBtnOneLink: "#about",
     showcaseBtnOneText: "Get Started",
     showcaseBtnTwoLink: "//www.youtube.com/watch?v=vr0qNXmkUJ8",

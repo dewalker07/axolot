@@ -242,7 +242,7 @@ About.defaultProps = {
     sectionDescription:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 
-    aboutImage: require("./about.png"),
+    aboutImage: require("../../assets/img/about.png"),
     aboutTitle: "We are branding strategy service from 2001 for our customers.",
     aboutDescription:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -258,7 +258,7 @@ About.defaultProps = {
     aboutBtnLink: "#0",
     aboutsData: [
         {
-            image: require("./1.png"),
+            image: require("../../assets/img/1.png"),
             position: ".01",
             title: "Get Started with our software",
             description:
@@ -269,7 +269,7 @@ About.defaultProps = {
             listItemFour: "Digital Marketing & Branding"
         },
         {
-            image: require("./2.png"),
+            image: require("../../assets/img/2.png"),
             position: ".02",
             title: "Solve your problem faster",
             description:
@@ -280,7 +280,7 @@ About.defaultProps = {
             listItemFour: "Digital Marketing & Branding"
         },
         {
-            image: require("./3.png"),
+            image: require("../../assets/img/3.png"),
             position: ".03",
             title: "All In one for all products",
             description:
@@ -289,7 +289,7 @@ About.defaultProps = {
                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
         },
         {
-            image: require("./4.png"),
+            image: require("../../assets/img/4.png"),
             position: ".04",
             title: "We provide proffesional staff",
             description:

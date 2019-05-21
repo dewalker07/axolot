@@ -6,10 +6,10 @@ import Showcase from "../components/versionOne/Showcase";
 import Features from "../components/versionOne/Features";
 import About from "../components/common/About";
 import Services from "../components/versionOne/Services";
-// import Vision from "../components/common/Vision";
+import Vision from "../components/common/Vision";
 // import FunFactCOunter from "../components/versionOne/FunFactCounter";
 // import JointClient from "../components/common/JoinClient";
-// import Works from "../components/common/Works";
+import Works from "../components/common/Works";
 import Team from "../components/versionOne/Team";
 // import Testimonial from "../components/versionOne/Testimonial";
 // import Faq from "../components/common/FAQ";
@@ -36,13 +36,13 @@ class Home extends Component {
                 {/* Services: src/components/versionOne/Services */}
                 <Services />
                 {/* Vision: src/components/common/Vision */}
-                {/* <Vision /> */}
+                <Vision />
                 {/* FunFactCOunter: src/components/versionOne/FunFactCounter */}
                 {/* <FunFactCOunter /> */}
                 {/* JointClient: src/components/common/JoinClient */}
                 {/* <JointClient /> */}
                 {/* Works: src/components/common/Works */}
-                {/* <Works /> */}
+                <Works />
                 {/* Team: src/components/versionOne/Team */}
                 <Team />
                 {/* Testimonial: src/components/versionOne/Testimonial */}
