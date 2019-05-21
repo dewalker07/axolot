@@ -9,8 +9,6 @@ import Page from "react-page-loading";
 
 //Component Import
 import Home from "./pages/Home";
-// import HomeTwo from "./pages/HomeTwo";
-// import HomeThree from "./pages/Home.Three";
 import Contact from "./pages/Contact";
 import ScrollUpBtn from "./components/common/ScrollUpBtn";
 
