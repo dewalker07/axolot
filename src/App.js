@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Route, Switch, Redirect } from "react-router-dom";
+import { Route, Switch } from "react-router-dom";
 import Page from "react-page-loading";
 
 //Package CSS
@@ -47,7 +47,7 @@ class App extends Component {
                                                     exact
                                                     component={Home}
                                                 />
-                                                <Redirect to="/not-found" />
+                                                {/* <Redirect to="/" /> */}
                                             </Switch>
                                         </section>
                                     </CSSTransition>
