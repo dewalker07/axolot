@@ -207,14 +207,14 @@ class Footer extends Component {
                                             </li>
                                         )}
 
-                                        {this.props.vimeolLink && (
+                                        {/* {this.props.vimeolLink && (
                                             <li>
                                                 <Link
                                                     to={this.props.vimeolLink}
                                                     className="icofont-vimeo"
                                                 />
                                             </li>
-                                        )}
+                                        )} */}
                                     </ul>
                                 </div>
                             </div>
@@ -293,11 +293,10 @@ Footer.defaultProps = {
     phone: "+(00) 01245687",
     email: "support@axolot.com",
 
-    copyRightText: "Copyright \u00a9 2019 Diwakar | All Rights Reserved.",
+    copyRightText: "Copyright \u00a9 2019 Axolot | All Rights Reserved.",
     fbLink: "#",
     twitterlLink: "#",
     instagramlLink: "#",
-    linkedinlLink: "#",
-    vimeolLink: "#"
+    linkedinlLink: "#"
 };
 export default Footer;

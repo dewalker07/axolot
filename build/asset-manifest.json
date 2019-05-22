@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/axolot/static/css/main.34de6062.chunk.css",
-    "main.js": "/axolot/static/js/main.0fcc3c15.chunk.js",
-    "main.js.map": "/axolot/static/js/main.0fcc3c15.chunk.js.map",
+    "main.js": "/axolot/static/js/main.b14c9d6c.chunk.js",
+    "main.js.map": "/axolot/static/js/main.b14c9d6c.chunk.js.map",
     "runtime~main.js": "/axolot/static/js/runtime~main.0a7ef571.js",
     "runtime~main.js.map": "/axolot/static/js/runtime~main.0a7ef571.js.map",
     "static/css/2.d3ee2f7b.chunk.css": "/axolot/static/css/2.d3ee2f7b.chunk.css",
     "static/js/2.20d8c2ed.chunk.js": "/axolot/static/js/2.20d8c2ed.chunk.js",
     "static/js/2.20d8c2ed.chunk.js.map": "/axolot/static/js/2.20d8c2ed.chunk.js.map",
     "index.html": "/axolot/index.html",
-    "precache-manifest.744b2154199fda95a3ced453b46aaf33.js": "/axolot/precache-manifest.744b2154199fda95a3ced453b46aaf33.js",
+    "precache-manifest.1d9d2f4aedbb9e2a81f5e77a8855902f.js": "/axolot/precache-manifest.1d9d2f4aedbb9e2a81f5e77a8855902f.js",
     "service-worker.js": "/axolot/service-worker.js",
     "static/css/2.d3ee2f7b.chunk.css.map": "/axolot/static/css/2.d3ee2f7b.chunk.css.map",
     "static/css/main.34de6062.chunk.css.map": "/axolot/static/css/main.34de6062.chunk.css.map",
