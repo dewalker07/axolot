@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/axolot/precache-manifest.b7b3b635f351742a9407e2a41bbcd625.js"
+  "/axolot/precache-manifest.744b2154199fda95a3ced453b46aaf33.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -154,12 +154,12 @@ class ContactUS extends Component {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="col-lg-12 col-md-12">
+                                {/* <div className="col-lg-12 col-md-12">
                                     <div id="map">
-                                        {/* GoogleMap: src/components/common/GoogleMap */}
-                                        {/* <GoogleMap /> */}
+                                        GoogleMap: src/components/common/GoogleMap
+                                        <GoogleMap />
                                     </div>
-                                </div>
+                                </div> */}
                                 <div className="col-lg-6 col-md-6">
                                     <div className="contact-text">
                                         <h3>{this.props.contactTitle}</h3>
@@ -306,7 +306,7 @@ ContactUS.propTypes = {
 ContactUS.defaultProps = {
     sectionName: "CONTACT AXOLOT",
 
-    phoneTitle: "Phone / Fax",
+    phoneTitle: "Phone",
     phoneNoOne: "(+021) 245522455",
     phoneNoTwo: "(+021) 245522456",
     emailTitle: "E-mail",

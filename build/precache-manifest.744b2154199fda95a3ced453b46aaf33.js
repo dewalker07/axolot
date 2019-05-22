@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae9988b019c8ff032c5d57522650a4c5",
+    "revision": "ba422cd453f170df894249efe74a480e",
     "url": "/axolot/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/axolot/static/css/2.d3ee2f7b.chunk.css"
   },
   {
-    "revision": "19fd486289e45cca5b89",
+    "revision": "6f39ea0695e31125a48d",
     "url": "/axolot/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/axolot/static/js/2.20d8c2ed.chunk.js"
   },
   {
-    "revision": "19fd486289e45cca5b89",
-    "url": "/axolot/static/js/main.87d53e11.chunk.js"
+    "revision": "6f39ea0695e31125a48d",
+    "url": "/axolot/static/js/main.0fcc3c15.chunk.js"
   },
   {
     "revision": "2a52a53aafe91c6ddb20",
